@@ -62,6 +62,7 @@ bin lib man
 [root@Rocky /usr/local/src/unison-2.51.4]# ls src/unison
 src/unison
 [root@Rocky /usr/local/src/unison-2.51.4] cp -p src/unison /usr/local/bin
+[root@Rocky /usr/local/src/unison-2.51.4] cp -p src/unison-fsmonitor /usr/local/bin
 ```
 
 ## Fedora 34 install unison
@@ -89,6 +90,7 @@ bin lib man
 [root@fedora /usr/local/src/unison-2.51.4]# ls src/unison
 src/unison
 [root@fedora /usr/local/src/unison-2.51.4]# cp -p src/unison /usr/local/bin
+[root@fedora /usr/local/src/unison-2.51.4]# cp -p src/unison-fsmonitor /usr/local/bin
 ```
 
 
